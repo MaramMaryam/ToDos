@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Nav from "./components/Nav";
 
 function App() {
     return (
         <>
-            <h2> ToDo App </h2>
+           <Nav/>
         </>
     );
 
